@@ -1,0 +1,21 @@
+nav .active{
+    color: white;  
+}
+nav{
+    color: aqua;
+    background-color: rgba(0, 0, 0, 0.354);
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+.nav-link{
+    text-decoration: none;
+    margin-left: 25px;
+  
+}
+.img_style{
+    height: 70px;
+   margin-right: 750px;
+
+}

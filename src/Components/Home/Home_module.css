@@ -1,0 +1,33 @@
+.btn-style{
+    background-color: rgba(247, 36, 36, 0.631);
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    width: 150px;
+    font-weight: 600;
+}
+.btn-style:hover{
+    background-color: orangered;
+}
+.dark{
+   color: white;
+}
+.main_page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.home_page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 650px;
+    height: 500px;
+    background-color: white;
+    text-align: center;
+    background-color: rgba(8, 175, 150, 0.843);
+    border-radius: 10px;
+    margin-top: 40px;
+}
